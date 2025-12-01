@@ -1,18 +1,5 @@
 [
   {
-    "id": 2,
-    "original": {
-      "title": "Book II: The Ring of Gyges",
-      "preview": "Glaucon: Let me tell you a story about a magic ring...",
-      "messages": []
-    },
-    "modern": {
-      "title": "Book II: The Ring Thing",
-      "preview": "Glaucon: OK so imagine you had this magic ring...",
-      "messages": []
-    }
-  },
-  {
     "id": 3,
     "original": {
       "title": "Book III: The Noble Lie",

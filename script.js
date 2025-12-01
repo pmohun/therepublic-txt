@@ -16,16 +16,19 @@ class TheRepublicApp {
 
     async loadData() {
         try {
-            // Load Book 1
+            // Load completed books
             const book1Response = await fetch('./data/book1.json');
             const book1Data = await book1Response.json();
             
-            // Load other books
+            const book2Response = await fetch('./data/book2.json');
+            const book2Data = await book2Response.json();
+            
+            // Load other books (placeholders)
             const booksResponse = await fetch('./data/books.json');
             const otherBooks = await booksResponse.json();
             
             // Combine all books
-            this.books = [book1Data, ...otherBooks];
+            this.books = [book1Data, book2Data, ...otherBooks];
         } catch (error) {
             console.error('Error loading book data:', error);
             // Fallback to empty array if data fails to load
@@ -50,7 +53,7 @@ class TheRepublicApp {
 
         this.books.forEach(book => {
             const item = document.createElement('div');
-            const isAvailable = book.id === 1;
+            const isAvailable = book.id === 1 || book.id === 2;
             
             item.className = `conversation-item ${isAvailable ? '' : 'disabled'}`;
             
@@ -71,12 +74,23 @@ class TheRepublicApp {
 
     openChat(book) {
         this.currentBook = book;
+        this.milestones = {}; // Reset reading progress milestones
         const displayData = this.getCurrentBookData(book);
         document.getElementById('chat-title').textContent = displayData.title;
         this.switchView('chat-view');
         this.userScrolledUp = false; // Reset scroll state
         this.setupScrollListener();
         this.startMessages(displayData.messages);
+        
+        // Track book opening in Google Analytics
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'book_open', {
+                'book_id': book.id,
+                'book_title': displayData.title,
+                'translation_mode': this.isModernMode ? 'modern' : 'original',
+                'total_messages': displayData.messages.length
+            });
+        }
     }
 
     setupScrollListener() {
@@ -119,10 +133,23 @@ class TheRepublicApp {
             this.addMessage(message);
             this.scrollToBottomIfNeeded();
             
+            // Track reading progress milestones
+            this.trackReadingProgress(i, messages.length);
+            
             // Pause before next
             if (i < messages.length - 1) {
                 await this.delay(this.getPauseTime());
             }
+        }
+        
+        // Track completion
+        if (typeof gtag !== 'undefined' && this.currentBook) {
+            gtag('event', 'book_completed', {
+                'book_id': this.currentBook.id,
+                'book_title': this.getCurrentBookData(this.currentBook).title,
+                'translation_mode': this.isModernMode ? 'modern' : 'original',
+                'total_messages': messages.length
+            });
         }
     }
 
@@ -176,7 +203,7 @@ class TheRepublicApp {
         // Socrates thinks faster but still needs time for complex thoughts
         const speed = 80 + Math.random() * 40; // slightly faster than typing
         const ms = (length / speed) * 60000;
-        return Math.max(600, Math.min(4000, ms)); // shorter range, faster min/max
+        return Math.max(300, Math.min(2000, ms)) * 0.5; // 50% shorter timing
     }
 
     getPauseTime() {
@@ -198,6 +225,47 @@ class TheRepublicApp {
         }
     }
 
+    trackReadingProgress(messageIndex, totalMessages) {
+        if (typeof gtag === 'undefined' || !this.currentBook) return;
+        
+        const progress = (messageIndex + 1) / totalMessages;
+        const displayData = this.getCurrentBookData(this.currentBook);
+        
+        // Track reading milestones at 25%, 50%, 75%
+        if (progress >= 0.25 && !this.milestones?.quarter) {
+            this.milestones = this.milestones || {};
+            this.milestones.quarter = true;
+            gtag('event', 'book_progress', {
+                'book_id': this.currentBook.id,
+                'book_title': displayData.title,
+                'progress': '25%',
+                'translation_mode': this.isModernMode ? 'modern' : 'original'
+            });
+        }
+        
+        if (progress >= 0.50 && !this.milestones?.half) {
+            this.milestones = this.milestones || {};
+            this.milestones.half = true;
+            gtag('event', 'book_progress', {
+                'book_id': this.currentBook.id,
+                'book_title': displayData.title,
+                'progress': '50%',
+                'translation_mode': this.isModernMode ? 'modern' : 'original'
+            });
+        }
+        
+        if (progress >= 0.75 && !this.milestones?.threeQuarters) {
+            this.milestones = this.milestones || {};
+            this.milestones.threeQuarters = true;
+            gtag('event', 'book_progress', {
+                'book_id': this.currentBook.id,
+                'book_title': displayData.title,
+                'progress': '75%',
+                'translation_mode': this.isModernMode ? 'modern' : 'original'
+            });
+        }
+    }
+
     switchView(viewName) {
         document.querySelectorAll('.view').forEach(view => {
             view.classList.remove('active');
@@ -209,6 +277,13 @@ class TheRepublicApp {
         this.isModernMode = !this.isModernMode;
         this.updateToggleButton();
         this.renderConversationList();
+        
+        // Track translation mode toggle in Google Analytics
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'translation_toggle', {
+                'new_mode': this.isModernMode ? 'modern' : 'original'
+            });
+        }
     }
 
     bindEvents() {
