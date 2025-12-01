@@ -1,3 +1,19 @@
+// Farcaster MiniApp SDK integration
+let farcasterSdk = null;
+
+// Dynamically import Farcaster SDK if in Mini App context
+async function initFarcasterSdk() {
+    try {
+        const { sdk } = await import('https://esm.sh/@farcaster/miniapp-sdk');
+        farcasterSdk = sdk;
+        return sdk;
+    } catch (e) {
+        // Not in a Farcaster context or SDK unavailable
+        console.log('Farcaster SDK not available, running standalone');
+        return null;
+    }
+}
+
 class TheRepublicApp {
     constructor() {
         this.isModernMode = true;
@@ -13,6 +29,15 @@ class TheRepublicApp {
         this.renderConversationList();
         this.bindEvents();
         this.updateToggleButton();
+        
+        // Signal to Farcaster that the app is ready to display
+        if (farcasterSdk) {
+            try {
+                await farcasterSdk.actions.ready();
+            } catch (e) {
+                console.log('Farcaster ready signal failed:', e);
+            }
+        }
     }
 
     async loadData() {
@@ -355,6 +380,8 @@ class TheRepublicApp {
 }
 
 // Start app
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
+    // Initialize Farcaster SDK first (if in Mini App context)
+    await initFarcasterSdk();
     new TheRepublicApp();
 });

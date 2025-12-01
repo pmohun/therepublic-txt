@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEyOSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEY2ZmQ3ZGVFYzc3ZDdCMTA2MTQzNTU4NURGMWQ3RkRmRDQ2ODI1NzcifQ",
+    "payload": "eyJkb21haW4iOiJwbW9odW4uZ2l0aHViLmlvIn0",
+    "signature": "edIGKD5IPyrl6nVhaYvvK021tajI9k2HwucPw1Gt8MEit7rjiUsv/BtePSHHaDS/R5cIvDvHR90wQG5I91/mtBw="
+  },
+  "frame": {
+    "version": "1",
+    "name": "TheRepublic.txt",
+    "iconUrl": "https://pmohun.github.io/therepublic-txt/og-image.png",
+    "homeUrl": "https://pmohun.github.io/therepublic-txt/",
+    "imageUrl": "https://pmohun.github.io/therepublic-txt/og-image.png",
+    "buttonTitle": "Read The Republic",
+    "splashImageUrl": "https://pmohun.github.io/therepublic-txt/og-image.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
