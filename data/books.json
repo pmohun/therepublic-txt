@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2,
+    "original": {
+      "title": "Book II: The Ring of Gyges",
+      "preview": "Glaucon: Let me tell you a story about a magic ring...",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book II: The Ring Thing",
+      "preview": "Glaucon: OK so imagine you had this magic ring...",
+      "messages": []
+    }
+  },
+  {
+    "id": 3,
+    "original": {
+      "title": "Book III: The Noble Lie",
+      "preview": "Socrates: Sometimes rulers must tell stories for the good of the state...",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book III: White Lies",
+      "preview": "Socrates: Sometimes leaders gotta tell stories to keep society together...",
+      "messages": []
+    }
+  }
+]
