@@ -16,19 +16,15 @@ class TheRepublicApp {
 
     async loadData() {
         try {
-            // Load completed books
-            const book1Response = await fetch('./data/book1.json');
-            const book1Data = await book1Response.json();
+            // Load all 10 books in parallel
+            const bookPromises = [];
+            for (let i = 1; i <= 10; i++) {
+                bookPromises.push(
+                    fetch(`./data/book${i}.json`).then(res => res.json())
+                );
+            }
             
-            const book2Response = await fetch('./data/book2.json');
-            const book2Data = await book2Response.json();
-            
-            // Load other books (placeholders)
-            const booksResponse = await fetch('./data/books.json');
-            const otherBooks = await booksResponse.json();
-            
-            // Combine all books
-            this.books = [book1Data, book2Data, ...otherBooks];
+            this.books = await Promise.all(bookPromises);
         } catch (error) {
             console.error('Error loading book data:', error);
             // Fallback to empty array if data fails to load
@@ -53,7 +49,7 @@ class TheRepublicApp {
 
         this.books.forEach(book => {
             const item = document.createElement('div');
-            const isAvailable = book.id === 1 || book.id === 2;
+            const isAvailable = book.id >= 1 && book.id <= 10;
             
             item.className = `conversation-item ${isAvailable ? '' : 'disabled'}`;
             

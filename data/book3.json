@@ -1,0 +1,625 @@
+{
+    "id": 3,
+    "original": {
+        "title": "Book III: Education of the Guardians",
+        "preview": "Socrates: Such then, I said, are our principles of theology—some tales are to be told, and others are not to be told to our disciples from their youth upwards.",
+        "messages": [
+            {
+                "speaker": "Socrates",
+                "text": "Such then, I said, are our principles of theology—some tales are to be told, and others are not to be told to our disciples from their youth upwards, if we mean them to honour the gods and their parents, and to value friendship with one another.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Yes; and I think that our principles are right.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "But if they are to be courageous, must they not learn other lessons besides these, and lessons of such a kind as will take away the fear of death? Can any man be courageous who has the fear of death in him?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Certainly not.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "And can he be fearless of death, or will he choose death in battle rather than defeat and slavery, who believes the world below to be real and terrible?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Impossible.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we must assume a control over the narrators of this class of tales as well as over the others, and beg them not simply to revile, but rather to commend the world below, intimating to them that their descriptions are untrue, and will do harm to our future warriors.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "That will be our duty.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we shall have to obliterate many obnoxious passages... We must also expunge the verse, which tells us how Pluto feared, 'Lest the mansions grim and squalid which the gods abhor should be seen both of mortals and immortals.'",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "I do not say that these horrible stories may not have a use of some kind; but there is a danger that the nerves of our guardians may be rendered too excitable and effeminate by them.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "There is a real danger.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we must have no more of them. Another and a nobler strain must be composed and sung by us.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "And shall we proceed to get rid of the weepings and wailings of famous men? Reflect: our principle is that the good man will not consider death terrible to any other good man who is his comrade.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Yes; that is our principle.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we shall be right in getting rid of the lamentations of famous men, and making them over to women (and not even to women who are good for anything), or to men of a baser sort, that those who are being educated by us to be the defenders of their country may scorn to do the like.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Neither ought our guardians to be given to laughter. For a fit of laughter which has been indulged to excess almost always produces a violent reaction.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "So I believe.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Again, truth should be highly valued; if, as we were saying, a lie is useless to the gods, and useful only as a medicine to men, then the use of such medicines should be restricted to physicians; private individuals have no business with them.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then if any one at all is to have the privilege of lying, the rulers of the State should be the persons; and they, in their dealings either with enemies or with their own citizens, may be allowed to lie for the public good. But nobody else should meddle with anything of the kind.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Most true.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "In the next place our youth must be temperate? Are not the chief elements of temperance, speaking generally, obedience to commanders and self-control in sensual pleasures?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "True.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Enough of the subjects of poetry: let us now speak of the style. You are aware, I suppose, that all mythology and poetry is a narration of events, either past, present, or to come?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Certainly.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "And narration may be either simple narration, or imitation, or a union of the two?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "That again, I do not quite understand.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "I fear that I must be a ridiculous teacher... But when the poet speaks in the person of another, may we not say that he assimilates his style to that of the person who, as he informs you, is going to speak? And this assimilation of himself to another is the imitation of the person whose character he assumes?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Of course.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then, Adeimantus, let me ask you whether our guardians ought to be imitators; or rather, has not this question been decided by the rule already laid down that one man can only do one thing well, and not many?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Certainly.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "If then we adhere to our original notion... they ought not to practise or imitate anything else; if they imitate at all, they should imitate from youth upward only those characters which are suitable to their profession—the courageous, temperate, holy, free, and the like.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Did you never observe how imitations, beginning in early youth and continuing far into life, at length grow into habits and become a second nature, affecting body, voice, and mind?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Yes, certainly.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we will not allow those for whom we profess a care... to imitate a woman... or slaves... or bad men... or madmen.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Next in order will follow melody and song.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "I fear that the words 'every one' hardly includes me, for I cannot at the moment say what they should be; though I may guess.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "We were saying, when we spoke of the subject-matter, that we had no need of lamentations and strains of sorrow? And which are the harmonies expressive of sorrow?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "The mixed or tenor Lydian, and the full-toned or bass Lydian, and such like.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "These then must be banished. And which are the soft or drinking harmonies?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "The Ionian and the Lydian; they are termed 'relaxed.'",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Well, and are these of any military use?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Quite the reverse; and if so the Dorian and the Phrygian are the only ones which you have left.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "I want to have one warlike, to sound the note or accent which a brave man utters in the hour of danger... and another to be used by him in times of peace and freedom of action... the strain of necessity and the strain of freedom, the strain of courage, and the strain of temperance; these, I say, leave.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "And these are the Dorian and Phrygian harmonies.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we shall not want multiplicity of notes or a panharmonic scale... There remain then only the lyre and the harp for use in the city, and the shepherds may have a pipe in the country.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "After music comes gymnastic, in which our youth are next to be trained. Gymnastic as well as music should begin in early years; the training in it should be careful and should continue through life.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Now my belief is... not that the good body by any bodily excellence improves the soul, but, on the contrary, that the good soul, by her own excellence, improves the body as far as this may be possible.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Yes, I agree.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then you would not approve of Syracusan dinners, and the refinements of Sicilian cookery? ... All such feeding and living may be rightly compared by us to melody and song composed in the panharmonic style... There complexity engendered license, and here disease.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "And yet what greater proof can there be of a bad and disgraceful state of education than this, that not only artisans... need the skill of first-rate physicians and judges, but also those who would profess to have had a liberal education?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Of all things, the most disgraceful.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Such, then, are our principles of nurture and education... Very good, I said; then what is the next question? Must we not ask who are to be rulers and who subjects?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Certainly.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "There can be no doubt that the elder must rule the younger. And that the best of these must rule. And as we are to have the best of guardians for our city, must they not be those who have most the character of guardians?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Yes.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then there must be a selection. Let us note among the guardians those who in their whole life show the greatest eagerness to do what is for the good of their country, and the greatest repugnance to do what is against her interests.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "How then may we devise one of those needful falsehoods... just one royal lie which may deceive the rulers, if that be possible, and at any rate the rest of the city?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "What sort of lie?",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "They are to be told that their youth was a dream, and the education and training which they received from us, an appearance only; in reality during all that time they were being formed and fed in the womb of the earth... and so, their country being their mother and also their nurse, they are bound to advise for her good, and to defend her against attacks.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "You had good reason to be ashamed of the lie which you were going to tell.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Citizens, we shall say to them in our tale, you are brothers, yet God has framed you differently. Some of you have the power of command, and in the composition of these he has mingled gold... others he has made of silver, to be auxiliaries; others again who are to be husbandmen and craftsmen he has composed of brass and iron.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Such is the tale; is there any possibility of making our citizens believe in it?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Not in the present generation... but their sons may be made to believe in the tale, and their sons' sons, and posterity after them.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then let us consider what will be their way of life... In the first place, none of them should have any property of his own beyond what is absolutely necessary; neither should they have a private house or store closed against any one who has a mind to enter.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Gold and silver we will tell them that they have from God... and they alone of all the citizens may not touch or handle silver or gold, or be under the same roof with them... And this will be their salvation, and they will be the saviours of the State.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Yes, said Glaucon.",
+                "isSocrates": false
+            }
+        ]
+    },
+    "modern": {
+        "title": "Book III: Arts & Censorship",
+        "preview": "Socrates: So, here are the rules for stories about the gods. We need to be careful what we tell kids if we want them to respect the gods and each other.",
+        "messages": [
+            {
+                "speaker": "Socrates",
+                "text": "So, here are the rules for stories about the gods. We need to be careful what we tell kids if we want them to respect the gods and each other.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Agreed. I think those are the right rules.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "But if we want them to be brave, don't they need more than just that? They need to not be afraid of death. Can anyone really be brave if they're terrified of dying?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Definitely not.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "And can someone really be fearless about death if they believe the afterlife is real and terrible? Would they choose death in battle over slavery if they thought something worse was waiting for them?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "No way.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Then we have to supervise the storytellers who talk about the underworld too. We should ask them to stop trashing it. Their scary stories are bad for our future warriors.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "That makes sense.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "We'll have to delete a lot of those famous verses. Like the one about preferring to be a slave on earth than a king of the dead. And all the stuff about scary mansions, zombies, and ghosts.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "It's not that they aren't good poetry. The problem is they're too good—they stick in people's heads. But they're dangerous for people who are supposed to be free and fear slavery more than death.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "For sure. That is a real risk.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "So, no more of those stories. And we should also cut the parts where famous men are crying and wailing. A good man shouldn't think death is terrible for a friend.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Right. That's our principle.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "We'll leave the crying scenes for weak men or women (and not even the best women). We want our defenders to look down on that kind of behavior.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Also, no uncontrollable laughter. Violent laughter usually leads to a violent reaction.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "I think so too.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Now about truth. Rulers can lie for the public good—like medicine—but nobody else. If a private citizen lies to a ruler, that's worse than a patient lying to a doctor.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Totally true.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "And our youth need to be temperate—obeying orders and controlling their physical desires. So no stories about gods losing control with lust or gluttony.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Agreed.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Enough about WHAT the stories say. Let's talk about HOW they say it. Style.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "What do you mean?",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "You know how sometimes the poet speaks as himself (narration) and sometimes speaks AS a character (imitation/acting)?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Yeah, I get it.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Our guardians shouldn't be imitators. They have one job: protecting the city. If they imitate bad characters, they might start acting like them in real life. Habits become second nature.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Adeimantus",
+                "text": "Certainly.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "So they shouldn't act like madmen, or slaves, or bad people. They should only narrate, or imitate good people.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Now, about music. We don't need the sad songs.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "I'm not the expert here, but I can guess.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Which musical modes are the sad ones?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "The Lydian ones, mostly.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Ban them. What about the soft, drinking ones?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Ionian and Lydian.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Useless for warriors. So what's left?",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "Dorian and Phrygian.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Perfect. One for war (courage) and one for peace (temperance). Keep those. And no complex instruments. No flutes. Just lyres and harps.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "After music comes physical training. It should be simple. No fancy diets.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "I believe a good soul improves the body, not the other way around.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "I agree.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "So no French cooking or complex sauces. Simple roast meat. Complexity in music brings chaos; complexity in food brings disease.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "It's shameful when a city needs tons of doctors and lawyers. It means everyone is living badly.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "It's super shameful.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "So, we need to pick rulers. We need the elders to rule the younger. And we need the ones who love the city the most.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "How do we find them?",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "We test them. We watch them from childhood. We scare them, tempt them with pleasure. If they stick to their principles and don't forget their duty, they become rulers.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Now... I have a 'noble lie' to tell. A story to keep everyone united.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "What kind of lie?",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "We tell them their education was just a dream. Really, they were born from the earth, fully grown. The earth is their mother, and all citizens are brothers.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "You hesitated to say that for a reason. That's intense.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Wait, there's more. God mixed metals into their souls. Gold for rulers, silver for auxiliaries (soldiers), and iron/bronze for farmers and workers.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Usually gold parents have gold kids, but not always. If a gold parent has a bronze kid, he goes to the working class. If a bronze parent has a gold kid, he rises up. We have to follow the metals.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "No one is going to believe that.",
+                "isSocrates": false
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Not the first generation. But if we tell it enough, their kids might.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "Finally, how they live. Guardians can't own property. No private houses. They live together like soldiers in a camp.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Socrates",
+                "text": "They can't touch gold or silver. They have divine gold in their souls; they don't need the earthly trash. If they start owning land and money, they'll become tyrants, not protectors.",
+                "isSocrates": true
+            },
+            {
+                "speaker": "Glaucon",
+                "text": "I'm with you.",
+                "isSocrates": false
+            }
+        ]
+    }
+}
