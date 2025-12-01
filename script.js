@@ -6,11 +6,24 @@ async function initFarcasterSdk() {
     try {
         const { sdk } = await import('https://esm.sh/@farcaster/miniapp-sdk');
         farcasterSdk = sdk;
+        console.log('Farcaster SDK loaded successfully');
         return sdk;
     } catch (e) {
         // Not in a Farcaster context or SDK unavailable
         console.log('Farcaster SDK not available, running standalone');
         return null;
+    }
+}
+
+// Signal to Farcaster that app is ready (critical for Mini Apps)
+async function signalReady() {
+    if (farcasterSdk) {
+        try {
+            await farcasterSdk.actions.ready();
+            console.log('Farcaster ready() called successfully');
+        } catch (e) {
+            console.log('Farcaster ready signal failed:', e);
+        }
     }
 }
 
@@ -21,7 +34,6 @@ class TheRepublicApp {
         this.userScrolledUp = false;
         this.books = [];
         this.skipToEnd = false;
-        this.init();
     }
 
     async init() {
@@ -29,15 +41,6 @@ class TheRepublicApp {
         this.renderConversationList();
         this.bindEvents();
         this.updateToggleButton();
-        
-        // Signal to Farcaster that the app is ready to display
-        if (farcasterSdk) {
-            try {
-                await farcasterSdk.actions.ready();
-            } catch (e) {
-                console.log('Farcaster ready signal failed:', e);
-            }
-        }
     }
 
     async loadData() {
@@ -383,5 +386,11 @@ class TheRepublicApp {
 document.addEventListener('DOMContentLoaded', async () => {
     // Initialize Farcaster SDK first (if in Mini App context)
     await initFarcasterSdk();
-    new TheRepublicApp();
+    
+    // Create and initialize app
+    const app = new TheRepublicApp();
+    await app.init();
+    
+    // Signal to Farcaster that app is ready (MUST be called or users see infinite loading)
+    await signalReady();
 });
