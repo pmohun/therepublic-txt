@@ -147,9 +147,9 @@ class TheRepublicApp {
             // Track reading progress milestones
             this.trackReadingProgress(i, messages.length);
             
-            // Pause before next
+            // Pause before next (based on message length for reading time)
             if (i < messages.length - 1) {
-                await this.delay(this.getPauseTime());
+                await this.delay(this.getPauseTime(message.text.length));
             }
         }
         
@@ -219,18 +219,22 @@ class TheRepublicApp {
     getTypingTime(length) {
         const speed = 60 + Math.random() * 30; // chars per minute
         const ms = (length / speed) * 60000;
-        return Math.max(800, Math.min(6000, ms));
+        return Math.max(480, Math.min(3600, ms)); // 40% faster
     }
 
     getThinkingTime(length) {
         // Socrates thinks faster but still needs time for complex thoughts
         const speed = 80 + Math.random() * 40; // slightly faster than typing
         const ms = (length / speed) * 60000;
-        return Math.max(300, Math.min(2000, ms)) * 0.5; // 50% shorter timing
+        return Math.max(180, Math.min(1200, ms)) * 0.5; // 40% faster
     }
 
-    getPauseTime() {
-        return (500 + Math.random() * 1500) * 0.75; // 25% shorter
+    getPauseTime(length) {
+        // Base pause + additional time based on message length (reading time)
+        const readingSpeed = 200 + Math.random() * 50; // chars per minute
+        const readingTime = (length / readingSpeed) * 60000;
+        const basePause = 200 + Math.random() * 300;
+        return Math.max(300, Math.min(2400, basePause + readingTime));
     }
 
     delay(ms) {
