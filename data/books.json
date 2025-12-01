@@ -1,14 +1,131 @@
 [
   {
-    "id": 3,
+    "id": 1,
     "original": {
-      "title": "Book III: The Noble Lie",
-      "preview": "Socrates: Sometimes rulers must tell stories for the good of the state...",
+      "title": "Book 1",
+      "preview": "BOOK I",
       "messages": []
     },
     "modern": {
-      "title": "Book III: White Lies",
-      "preview": "Socrates: Sometimes leaders gotta tell stories to keep society together...",
+      "title": "Book 1",
+      "preview": "BOOK I",
+      "messages": []
+    }
+  },
+  {
+    "id": 2,
+    "original": {
+      "title": "Book 2",
+      "preview": "BOOK II",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 2",
+      "preview": "BOOK II",
+      "messages": []
+    }
+  },
+  {
+    "id": 3,
+    "original": {
+      "title": "Book 3",
+      "preview": "BOOK III",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 3",
+      "preview": "BOOK III",
+      "messages": []
+    }
+  },
+  {
+    "id": 4,
+    "original": {
+      "title": "Book 4",
+      "preview": "BOOK IV",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 4",
+      "preview": "BOOK IV",
+      "messages": []
+    }
+  },
+  {
+    "id": 5,
+    "original": {
+      "title": "Book 5",
+      "preview": "BOOK V",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 5",
+      "preview": "BOOK V",
+      "messages": []
+    }
+  },
+  {
+    "id": 6,
+    "original": {
+      "title": "Book 6",
+      "preview": "BOOK VI",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 6",
+      "preview": "BOOK VI",
+      "messages": []
+    }
+  },
+  {
+    "id": 7,
+    "original": {
+      "title": "Book 7",
+      "preview": "BOOK VII",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 7",
+      "preview": "BOOK VII",
+      "messages": []
+    }
+  },
+  {
+    "id": 8,
+    "original": {
+      "title": "Book 8",
+      "preview": "BOOK VIII",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 8",
+      "preview": "BOOK VIII",
+      "messages": []
+    }
+  },
+  {
+    "id": 9,
+    "original": {
+      "title": "Book 9",
+      "preview": "BOOK IX",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 9",
+      "preview": "BOOK IX",
+      "messages": []
+    }
+  },
+  {
+    "id": 10,
+    "original": {
+      "title": "Book 10",
+      "preview": "BOOK X",
+      "messages": []
+    },
+    "modern": {
+      "title": "Book 10",
+      "preview": "BOOK X",
       "messages": []
     }
   }
