@@ -4,6 +4,7 @@ class TheRepublicApp {
         this.currentBook = null;
         this.userScrolledUp = false;
         this.books = [];
+        this.skipToEnd = false;
         this.init();
     }
 
@@ -71,6 +72,7 @@ class TheRepublicApp {
     openChat(book) {
         this.currentBook = book;
         this.milestones = {}; // Reset reading progress milestones
+        this.skipToEnd = false; // Reset skip state
         const displayData = this.getCurrentBookData(book);
         document.getElementById('chat-title').textContent = displayData.title;
         this.switchView('chat-view');
@@ -115,6 +117,19 @@ class TheRepublicApp {
         for (let i = 0; i < messages.length; i++) {
             const message = messages[i];
             
+            // If skipToEnd is triggered, load remaining messages immediately
+            if (this.skipToEnd) {
+                // Small delay to show loading state
+                await this.delay(300);
+                this.hideLoading();
+                for (let j = i; j < messages.length; j++) {
+                    this.addMessage(messages[j], true); // true = skip animation
+                }
+                this.showConversationEnded(true);
+                this.scrollToTop();
+                return; // Exit early, skip the completion tracking below
+            }
+            
             // Show typing for non-Socrates messages
             if (!message.isSocrates) {
                 this.showTyping();
@@ -138,6 +153,10 @@ class TheRepublicApp {
             }
         }
         
+        // Show end of conversation message
+        this.showConversationEnded();
+        this.scrollToBottomIfNeeded();
+        
         // Track completion
         if (typeof gtag !== 'undefined' && this.currentBook) {
             gtag('event', 'book_completed', {
@@ -149,15 +168,23 @@ class TheRepublicApp {
         }
     }
 
-    addMessage(message) {
+    showConversationEnded(skipAnimation = false) {
+        const container = document.getElementById('messages-container');
+        const endMessage = document.createElement('div');
+        endMessage.className = `conversation-ended${skipAnimation ? ' no-animation' : ''}`;
+        endMessage.textContent = 'Everyone has left the conversation';
+        container.appendChild(endMessage);
+    }
+
+    addMessage(message, skipAnimation = false) {
         const container = document.getElementById('messages-container');
         const messageEl = document.createElement('div');
         messageEl.className = `message ${message.isSocrates ? 'socrates' : 'other'}`;
         
         messageEl.innerHTML = `
             <div>
-                <div class="speaker-name">${message.speaker}</div>
-                <div class="message-bubble">${message.text}</div>
+                <div class="speaker-name${skipAnimation ? ' no-animation' : ''}">${message.speaker}</div>
+                <div class="message-bubble${skipAnimation ? ' no-animation' : ''}">${message.text}</div>
             </div>
         `;
         
@@ -208,6 +235,11 @@ class TheRepublicApp {
 
     delay(ms) {
         return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    scrollToTop() {
+        const container = document.getElementById('messages-container');
+        container.scrollTop = 0;
     }
 
     scrollToBottom() {
@@ -282,6 +314,27 @@ class TheRepublicApp {
         }
     }
 
+    seeAll() {
+        this.skipToEnd = true;
+        this.hideTyping(); // Remove any typing indicator
+        this.showLoading();
+    }
+
+    showLoading() {
+        const container = document.getElementById('messages-container');
+        container.innerHTML = `
+            <div id="loading-indicator" class="loading-indicator">
+                <div class="loading-spinner"></div>
+                <div class="loading-text">Loading messages...</div>
+            </div>
+        `;
+    }
+
+    hideLoading() {
+        const loading = document.getElementById('loading-indicator');
+        if (loading) loading.remove();
+    }
+
     bindEvents() {
         document.getElementById('back-btn').addEventListener('click', () => {
             this.switchView('conversation-list');
@@ -289,6 +342,10 @@ class TheRepublicApp {
         
         document.getElementById('translation-toggle').addEventListener('click', () => {
             this.toggleMode();
+        });
+        
+        document.getElementById('see-all-btn').addEventListener('click', () => {
+            this.seeAll();
         });
     }
 }

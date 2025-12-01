@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TheRepublic.txt</title>
     <link rel="stylesheet" href="styles.css">
-    
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPSXX8S21F"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-      gtag('config', 'G-QPSXX8S21F');
+        gtag('config', 'G-QPSXX8S21F');
     </script>
 </head>
+
 <body>
     <div id="app">
         <div id="conversation-list" class="view active">
@@ -27,10 +29,11 @@
                 <!-- Conversations will be populated by JavaScript -->
             </div>
         </div>
-        
+
         <div id="chat-view" class="view">
             <div class="header">
                 <button id="back-btn">← Back</button>
+                <button id="see-all-btn">See All</button>
                 <h2 id="chat-title"></h2>
             </div>
             <div class="messages" id="messages-container">
@@ -38,7 +41,8 @@
             </div>
         </div>
     </div>
-    
+
     <script src="script.js?v=3"></script>
 </body>
+
 </html>
