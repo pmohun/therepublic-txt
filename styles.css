@@ -37,6 +37,8 @@ body {
     height: 100%;
     transition: transform 0.3s ease;
     transform: translateX(100%);
+    display: flex;
+    flex-direction: column;
 }
 
 .view.active {
@@ -111,9 +113,7 @@ body {
 
 .conversations {
     padding: 0;
-    height: calc(100vh - 80px);
-    height: calc(100dvh - 80px);
-    /* Dynamic viewport height for mobile Safari */
+    flex: 1;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     /* Smooth scrolling on iOS */
@@ -153,9 +153,7 @@ body {
 
 .messages {
     padding: 20px 20px 30px 20px;
-    height: calc(100vh - 80px);
-    height: calc(100dvh - 80px);
-    /* Dynamic viewport height for mobile Safari */
+    flex: 1;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     /* Smooth scrolling on iOS */
@@ -374,9 +372,4 @@ body {
         height: calc(100vh - 100px);
     }
 
-    .messages {
-        height: calc(100% - 80px);
-        height: calc(100% - 80px);
-        /* Fallback for older browsers */
-    }
 }
