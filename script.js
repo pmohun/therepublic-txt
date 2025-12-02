@@ -9,13 +9,11 @@ async function initFarcasterSdk() {
         console.log('Farcaster SDK loaded successfully');
         return sdk;
     } catch (e) {
-        // Not in a Farcaster context or SDK unavailable
         console.log('Farcaster SDK not available, running standalone');
         return null;
     }
 }
 
-// Signal to Farcaster that app is ready (critical for Mini Apps)
 async function signalReady() {
     if (farcasterSdk) {
         try {
@@ -145,17 +143,15 @@ class TheRepublicApp {
         for (let i = 0; i < messages.length; i++) {
             const message = messages[i];
             
-            // If skipToEnd is triggered, load remaining messages immediately
             if (this.skipToEnd) {
-                // Small delay to show loading state
                 await this.delay(300);
                 this.hideLoading();
                 for (let j = i; j < messages.length; j++) {
-                    this.addMessage(messages[j], true); // true = skip animation
+                    this.addMessage(messages[j], true);
                 }
                 this.showConversationEnded(true);
                 this.scrollToTop();
-                return; // Exit early, skip the completion tracking below
+                return;
             }
             
             // Show typing for non-Socrates messages
@@ -175,13 +171,11 @@ class TheRepublicApp {
             // Track reading progress milestones
             this.trackReadingProgress(i, messages.length);
             
-            // Pause before next (based on message length for reading time)
             if (i < messages.length - 1) {
                 await this.delay(this.getPauseTime(message.text.length));
             }
         }
         
-        // Show end of conversation message
         this.showConversationEnded();
         this.scrollToBottomIfNeeded();
         
@@ -245,21 +239,19 @@ class TheRepublicApp {
     }
 
     getTypingTime(length) {
-        const speed = 60 + Math.random() * 30; // chars per minute
+        const speed = 60 + Math.random() * 30;
         const ms = (length / speed) * 60000;
-        return Math.max(480, Math.min(3600, ms)); // 40% faster
+        return Math.max(480, Math.min(3600, ms));
     }
 
     getThinkingTime(length) {
-        // Socrates thinks faster but still needs time for complex thoughts
-        const speed = 80 + Math.random() * 40; // slightly faster than typing
+        const speed = 80 + Math.random() * 40;
         const ms = (length / speed) * 60000;
-        return Math.max(180, Math.min(1200, ms)) * 0.5; // 40% faster
+        return Math.max(180, Math.min(1200, ms)) * 0.5;
     }
 
     getPauseTime(length) {
-        // Base pause + additional time based on message length (reading time)
-        const readingSpeed = 200 + Math.random() * 50; // chars per minute
+        const readingSpeed = 200 + Math.random() * 50;
         const readingTime = (length / readingSpeed) * 60000;
         const basePause = 200 + Math.random() * 300;
         return Math.max(300, Math.min(2400, basePause + readingTime));
@@ -348,7 +340,7 @@ class TheRepublicApp {
 
     seeAll() {
         this.skipToEnd = true;
-        this.hideTyping(); // Remove any typing indicator
+        this.hideTyping();
         this.showLoading();
     }
 
@@ -384,13 +376,8 @@ class TheRepublicApp {
 
 // Start app
 document.addEventListener('DOMContentLoaded', async () => {
-    // Initialize Farcaster SDK first (if in Mini App context)
     await initFarcasterSdk();
-    
-    // Create and initialize app
     const app = new TheRepublicApp();
     await app.init();
-    
-    // Signal to Farcaster that app is ready (MUST be called or users see infinite loading)
     await signalReady();
 });
