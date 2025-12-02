@@ -4,198 +4,1472 @@
     "title": "Book VI: The Philosopher's Nature",
     "preview": "Socrates: And thus, Glaucon, after the argument has gone a weary way, the true and the false philosophers have at length appeared in view.",
     "messages": [
-      { "speaker": "Socrates", "text": "And thus, Glaucon, after the argument has gone a weary way, the true and the false philosophers have at length appeared in view.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "I do not think that the way could have been shortened.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "I suppose not. And yet I believe that we might have had a better view of both of them if the discussion could have been confined to this one subject.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "And what is the next question?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Surely the one which follows next in order. Inasmuch as philosophers only are able to grasp the eternal and unchangeable, and those who wander in the region of the many and variable are not philosophers, I must ask you which of the two classes should be the rulers of our State?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "And how can we rightly answer that question?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Whichever of the two are best able to guard the laws and institutions of our State—let them be our guardians.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Very good.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Neither can there be any question that the guardian who is to keep anything should have eyes rather than no eyes?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "There can be no question of that.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And are not those who are verily and indeed wanting in the knowledge of the true being of each thing, and who have in their souls no clear pattern, simply blind?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Truly, they are much in that condition.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "In the first place, as we began by observing, the nature of the philosopher has to be ascertained.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What do you mean?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Let us suppose that philosophical minds always love knowledge of a sort which shows them the eternal nature not varying from generation and corruption.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Agreed.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And further, let us agree that they are lovers of all true being; there is no part whether greater or less, or more or less honourable, which they are willing to renounce.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "True.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And if they are to be what we were describing, is there not another quality which they should also possess?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What quality?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Truthfulness: they will never intentionally receive into their mind falsehood, which is their detestation, and they will love the truth.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Yes, that may be safely affirmed of them.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And is there anything more akin to wisdom than truth?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "How can there be?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Can the same nature be a lover of wisdom and a lover of falsehood?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Never.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "He whose desires are drawn towards knowledge in every form will be absorbed in the pleasures of the soul, and will hardly feel bodily pleasure—I mean, if he be a true philosopher and not a sham one.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That is most certain.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Such an one is sure to be temperate and the reverse of covetous; for the motives which make another man desirous of having and spending, have no place in his character.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Very true.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Then how can he who has magnificence of mind and is the spectator of all time and all existence, think much of human life?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "He cannot.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Or can such an one account death fearful?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "No indeed.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Then the cowardly and mean nature has no part in true philosophy?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Certainly not.", "isSocrates": false },
-      { "speaker": "Adeimantus", "text": "To these statements, Socrates, no one can offer a reply; but when you talk in this way, a strange feeling passes over the minds of your hearers.", "isSocrates": false },
-      { "speaker": "Adeimantus", "text": "They fancy that they are led astray a little at each step in the argument, and at the end of the discussion they are found to have sustained a mighty overthrow and all their former notions appear to be turned upside down.", "isSocrates": false },
-      { "speaker": "Adeimantus", "text": "For any one of us might say that although in words he is not able to meet you at each step of the argument, he sees as a fact that the votaries of philosophy, when they carry on the study as the pursuit of their maturer years, most of them become strange monsters, not to say utter rogues.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Well, and do you think that those who say so are wrong?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "I cannot tell; but I should like to know what is your opinion.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Hear my answer; I am of opinion that they are quite right.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Then how can you be justified in saying that cities will not cease from evil until philosophers rule in them, when philosophers are acknowledged by us to be of no use to them?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "You ask a question to which a reply can only be given in a parable.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Imagine then a fleet or a ship in which there is a captain who is taller and stronger than any of the crew, but he is a little deaf and has a similar infirmity in sight, and his knowledge of navigation is not much better.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "The sailors are quarrelling with one another about the steering—every one is of opinion that he has a right to steer, though he has never learned the art of navigation.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "They throng about the captain, begging and praying him to commit the helm to them; and if at any time they do not prevail, but others are preferred to them, they kill the others or throw them overboard.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Having first chained up the noble captain's senses with drink or some narcotic drug, they mutiny and take possession of the ship and make free with the stores.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Him who is their partisan and cleverly aids them in their plot, they compliment with the name of sailor, pilot, able seaman, and abuse the other sort of man, whom they call a good-for-nothing.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "But that the true pilot must pay attention to the year and seasons and sky and stars and winds, and whatever else belongs to his art, if he intends to be really qualified for the command of a ship—the possibility of this has never seriously entered into their thoughts.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Of course.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Now in vessels which are in a state of mutiny, how will the true pilot be regarded? Will he not be called by them a prater, a star-gazer, a good-for-nothing?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Of course.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Then you will hardly need to hear the interpretation of the figure, which describes the true philosopher in his relation to the State.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Certainly.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Say to him, that, in deeming the best votaries of philosophy to be useless to the rest of the world, he is right; but also tell him to attribute their uselessness to the fault of those who will not use them, and not to themselves.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "The pilot should not humbly beg the sailors to be commanded by him—that is not the order of nature.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Precisely so.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And may we not say, Adeimantus, that the most gifted minds, when they are ill-educated, become pre-eminently bad? Do not great crimes and the spirit of pure evil spring out of a fulness of nature ruined by education rather than from any inferiority?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "There I think that you are right.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And our philosopher follows the same analogy—he is like a plant which, having proper nurture, must necessarily grow and mature into all virtue, but, if sown and planted in an alien soil, becomes the most noxious of all weeds.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Very true.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Do you really think, as people so often say, that our youth are corrupted by Sophists? Are not the public who say these things the greatest of all Sophists?", "isSocrates": true },
-      { "speaker": "Socrates", "text": "And do they not educate to perfection young and old, men and women alike, and fashion them after their own hearts?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "When is this accomplished?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "When they meet together, and the world sits down at an assembly, or in a court of law, or a theatre, and there is a great uproar, and they praise some things which are being said or done, and blame other things, equally exaggerating both, shouting and clapping their hands.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "At such a time will not a young man's heart leap within him? Will any private training enable him to stand firm against the overwhelming flood of popular opinion?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Yes, Socrates; necessity will compel him.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And yet there is a still greater necessity, which has not been mentioned.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "What is that?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "The gentle force of attainder or confiscation or death which, as you are aware, these new Sophists and educators who are the public, apply when their words are powerless.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Indeed they do; and in right good earnest.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Then, Adeimantus, the worthy disciples of philosophy will be but a small remnant.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Those who belong to this small class have tasted how sweet and blessed a possession philosophy is, and have also seen enough of the madness of the multitude.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "They know that no politician is honest, nor is there any champion of justice at whose side they may fight and be saved.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Such an one may be compared to a man who has fallen among wild beasts—he will not join in the wickedness of his fellows, but neither is he able singly to resist all their fierce natures.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Yes, and he will have done a great work before he departs.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "A great work—yes; but not the greatest, unless he find a State suitable to him; for in a State which is suitable to him, he will have a larger growth and be the saviour of his country, as well as of himself.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "I should like to know which of the governments now existing is in your opinion the one adapted to philosophy.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Not any of them; and that is precisely the accusation which I bring against them—not one of them is worthy of the philosophic nature.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "What is there remaining?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "The question how the study of philosophy may be so ordered as not to be the ruin of the State: All great attempts are attended with risk; 'hard is the good,' as men say.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Still, let the point be cleared up.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "At present, the students of philosophy are quite young; beginning when they are hardly past childhood, they devote only the time saved from moneymaking and housekeeping to such pursuits.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "And even those of them who are reputed to have most of the philosophic spirit, when they come within sight of the great difficulty of the subject, I mean dialectic, take themselves off.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "What do you propose?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Quite the from of the present practice. In childhood and youth their study, and what philosophy they learn, should be suited to their tender years.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "And as life advances, when the soul begins to reach maturity, let them increase the gymnastics of the soul; but when the strength of our citizens fails and is past civil and military duties, then let them range at will and engage in no serious labour.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "How earnest you are, Socrates! I am sure of that; and yet most of your hearers, if I am not mistaken, are likely to be still more earnest in their opposition to you.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Do not make a quarrel between Thrasymachus and me, who have recently become friends, although, indeed, we were never enemies.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "For we shall go on striving to the utmost until either we convince him and others, or at least do something that may profit them against the day when they live again and hold the like discourse in another state of existence.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "You are speaking of a myth which is yet to come!", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Nay, rather of a time which is now and not yet to come.", "isSocrates": true }
+      {
+        "speaker": "Socrates",
+        "text": "And thus, Glaucon, after the argument has gone a weary way, the true and the false philosophers have at length appeared in view.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I do not think that the way could have been shortened.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "I suppose not. And yet I believe that we might have had a better view of both of them if the discussion could have been confined to this one subject.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And what is the next question?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Surely the one which follows next in order. Inasmuch as philosophers only are able to grasp the eternal and unchangeable, and those who wander in the region of the many and variable are not philosophers, I must ask you which of the two classes should be the rulers of our State?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And how can we rightly answer that question?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Whichever of the two are best able to guard the laws and institutions of our State—let them be our guardians.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very good.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Neither can there be any question that the guardian who is to keep anything should have eyes rather than no eyes?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "There can be no question of that.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And are not those who are verily and indeed wanting in the knowledge of the true being of each thing, and who have in their souls no clear pattern, simply blind?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Truly, they are much in that condition.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "In the first place, as we began by observing, the nature of the philosopher has to be ascertained.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What do you mean?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Let us suppose that philosophical minds always love knowledge of a sort which shows them the eternal nature not varying from generation and corruption.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Agreed.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And further, let us agree that they are lovers of all true being; there is no part whether greater or less, or more or less honourable, which they are willing to renounce.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And if they are to be what we were describing, is there not another quality which they should also possess?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What quality?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Truthfulness: they will never intentionally receive into their mind falsehood, which is their detestation, and they will love the truth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, that may be safely affirmed of them.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And is there anything more akin to wisdom than truth?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "How can there be?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Can the same nature be a lover of wisdom and a lover of falsehood?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Never.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He whose desires are drawn towards knowledge in every form will be absorbed in the pleasures of the soul, and will hardly feel bodily pleasure—I mean, if he be a true philosopher and not a sham one.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That is most certain.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Such an one is sure to be temperate and the reverse of covetous; for the motives which make another man desirous of having and spending, have no place in his character.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then how can he who has magnificence of mind and is the spectator of all time and all existence, think much of human life?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "He cannot.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Or can such an one account death fearful?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "No indeed.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then the cowardly and mean nature has no part in true philosophy?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly not.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "To these statements, Socrates, no one can offer a reply; but when you talk in this way, a strange feeling passes over the minds of your hearers.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "They fancy that they are led astray a little at each step in the argument, and at the end of the discussion they are found to have sustained a mighty overthrow and all their former notions appear to be turned upside down.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "For any one of us might say that although in words he is not able to meet you at each step of the argument, he sees as a fact that the votaries of philosophy, when they carry on the study as the pursuit of their maturer years, most of them become strange monsters, not to say utter rogues.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Well, and do you think that those who say so are wrong?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "I cannot tell; but I should like to know what is your opinion.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Hear my answer; I am of opinion that they are quite right.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Then how can you be justified in saying that cities will not cease from evil until philosophers rule in them, when philosophers are acknowledged by us to be of no use to them?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You ask a question to which a reply can only be given in a parable.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Imagine then a fleet or a ship in which there is a captain who is taller and stronger than any of the crew, but he is a little deaf and has a similar infirmity in sight, and his knowledge of navigation is not much better.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The sailors are quarrelling with one another about the steering—every one is of opinion that he has a right to steer, though he has never learned the art of navigation.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "They throng about the captain, begging and praying him to commit the helm to them; and if at any time they do not prevail, but others are preferred to them, they kill the others or throw them overboard.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Having first chained up the noble captain's senses with drink or some narcotic drug, they mutiny and take possession of the ship and make free with the stores.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Him who is their partisan and cleverly aids them in their plot, they compliment with the name of sailor, pilot, able seaman, and abuse the other sort of man, whom they call a good-for-nothing.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But that the true pilot must pay attention to the year and seasons and sky and stars and winds, and whatever else belongs to his art, if he intends to be really qualified for the command of a ship—the possibility of this has never seriously entered into their thoughts.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Of course.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now in vessels which are in a state of mutiny, how will the true pilot be regarded? Will he not be called by them a prater, a star-gazer, a good-for-nothing?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Of course.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then you will hardly need to hear the interpretation of the figure, which describes the true philosopher in his relation to the State.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Certainly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Say to him, that, in deeming the best votaries of philosophy to be useless to the rest of the world, he is right; but also tell him to attribute their uselessness to the fault of those who will not use them, and not to themselves.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The pilot should not humbly beg the sailors to be commanded by him—that is not the order of nature.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Precisely so.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And may we not say, Adeimantus, that the most gifted minds, when they are ill-educated, become pre-eminently bad? Do not great crimes and the spirit of pure evil spring out of a fulness of nature ruined by education rather than from any inferiority?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "There I think that you are right.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And our philosopher follows the same analogy—he is like a plant which, having proper nurture, must necessarily grow and mature into all virtue, but, if sown and planted in an alien soil, becomes the most noxious of all weeds.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Do you really think, as people so often say, that our youth are corrupted by Sophists? Are not the public who say these things the greatest of all Sophists?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And do they not educate to perfection young and old, men and women alike, and fashion them after their own hearts?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "When is this accomplished?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "When they meet together, and the world sits down at an assembly, or in a court of law, or a theatre, and there is a great uproar, and they praise some things which are being said or done, and blame other things, equally exaggerating both, shouting and clapping their hands.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "At such a time will not a young man's heart leap within him? Will any private training enable him to stand firm against the overwhelming flood of popular opinion?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Yes, Socrates; necessity will compel him.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And yet there is a still greater necessity, which has not been mentioned.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "What is that?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The gentle force of attainder or confiscation or death which, as you are aware, these new Sophists and educators who are the public, apply when their words are powerless.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Indeed they do; and in right good earnest.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then, Adeimantus, the worthy disciples of philosophy will be but a small remnant.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Those who belong to this small class have tasted how sweet and blessed a possession philosophy is, and have also seen enough of the madness of the multitude.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "They know that no politician is honest, nor is there any champion of justice at whose side they may fight and be saved.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Such an one may be compared to a man who has fallen among wild beasts—he will not join in the wickedness of his fellows, but neither is he able singly to resist all their fierce natures.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Yes, and he will have done a great work before he departs.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "A great work—yes; but not the greatest, unless he find a State suitable to him; for in a State which is suitable to him, he will have a larger growth and be the saviour of his country, as well as of himself.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "I should like to know which of the governments now existing is in your opinion the one adapted to philosophy.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Not any of them; and that is precisely the accusation which I bring against them—not one of them is worthy of the philosophic nature.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "What is there remaining?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The question how the study of philosophy may be so ordered as not to be the ruin of the State: All great attempts are attended with risk; 'hard is the good,' as men say.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Still, let the point be cleared up.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "At present, the students of philosophy are quite young; beginning when they are hardly past childhood, they devote only the time saved from moneymaking and housekeeping to such pursuits.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And even those of them who are reputed to have most of the philosophic spirit, when they come within sight of the great difficulty of the subject, I mean dialectic, take themselves off.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "What do you propose?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Quite the from of the present practice. In childhood and youth their study, and what philosophy they learn, should be suited to their tender years.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And as life advances, when the soul begins to reach maturity, let them increase the gymnastics of the soul; but when the strength of our citizens fails and is past civil and military duties, then let them range at will and engage in no serious labour.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "How earnest you are, Socrates! I am sure of that; and yet most of your hearers, if I am not mistaken, are likely to be still more earnest in their opposition to you.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Do not make a quarrel between Thrasymachus and me, who have recently become friends, although, indeed, we were never enemies.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "For we shall go on striving to the utmost until either we convince him and others, or at least do something that may profit them against the day when they live again and hold the like discourse in another state of existence.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "You are speaking of a myth which is yet to come!",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Nay, rather of a time which is now and not yet to come.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Still, I must implore you, Socrates, not to turn away just as you are reaching the goal; if you will only give such an explanation of the good as you have already given of justice and temperance and the other virtues, we shall be satisfied.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Yes, my friend, and I shall be at least equally satisfied, but I cannot help fearing that I shall fail. But of the child of the good who is likest him, I would fain speak, if I could be sure that you wished to hear.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "By all means, tell us about the child, and you shall remain in our debt for the account of the parent.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The old story is that there is a many beautiful and a many good. And there is an absolute beauty and an absolute good, and of other things to which the term 'many' is applied there is an absolute; for they may be brought under a single idea, which is called the essence of each.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The many, as we say, are seen but not known, and the ideas are known but not seen. And what is the organ with which we see the visible things?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "The sight.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But have you remarked that sight is by far the most costly and complex piece of workmanship which the artificer of the senses ever contrived?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "No, I never have.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then reflect; has the ear or voice need of any third nature in order that the one may hear and the other be heard?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Nothing of the sort.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But you see that without the addition of some other nature there is no seeing or being seen?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "How do you mean?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Sight being in the eyes, and he who has eyes wanting to see; colour being also present in them, still unless there be a third nature specially adapted to the purpose, the owner of the eyes will see nothing and the colours will be invisible.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Of what nature are you speaking?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Of that which you term light. Noble is the bond which links together sight and visibility; for light is their bond, and light is no ignoble thing.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Nay, the reverse of ignoble.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And which of the gods in heaven would you say is the lord of this element? Whose is that light which makes the eye to see perfectly and the visible to appear?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "You mean the sun, as you and all mankind say.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then the sun is not sight, but the author of sight who is recognised by sight.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And this is he whom I call the child of the good, whom the good begat in his own likeness, to be in the visible world, in relation to sight and the things of sight, what the good is in the intellectual world in relation to mind and the things of mind.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Will you be a little more explicit?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You know that the eyes, when a person directs them towards objects on which the light of day is no longer shining, but the moon and stars only, see dimly, and are nearly blind; they seem to have no clearness of vision in them?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But when they are directed towards objects on which the sun shines, they see clearly and there is sight in them?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And the soul is like the eye: when resting upon that on which truth and being shine, the soul perceives and understands and is radiant with intelligence; but when turned towards the twilight of becoming and perishing, then she has opinion only, and goes blinking about, and seems to have no intelligence.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Just so.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now, that which imparts truth to the known and the power of knowing to the knower is what I would have you term the idea of good, and this you will deem to be the cause of science, and of truth in so far as the latter becomes the subject of knowledge.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Beautiful as are both truth and knowledge, you will be right in esteeming this other nature as more beautiful than either; and, as light and sight may be truly said to be like the sun, and yet not to be the sun, so in this other sphere, science and truth may be deemed to be like the good, but not the good; the good has a place of honour yet higher.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What a wonder of beauty that must be, which is the author of science and truth, and yet surpasses them in beauty.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You would say that the sun is not only the author of visibility in all visible things, but of generation and nourishment and growth, though he himself is not generation?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "In like manner the good may be said to be not only the author of knowledge to all things known, but of their being and essence, and yet the good is not essence, but far exceeds essence in dignity and power.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "By the light of heaven, how amazing!",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You have to imagine that there are two ruling powers, and that one of them is set over the intellectual world, the other over the visible.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I have.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now take a line which has been cut into two unequal parts, and divide each of them again in the same proportion, and suppose the two main divisions to answer, one to the visible and the other to the intelligible.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then compare the subdivisions in respect of their clearness, and you will find that the first section in the sphere of the visible consists of images. And by images I mean shadows, and reflections in water and in solid, smooth and polished bodies and the like.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I understand.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Imagine now the other section, of which this is only the resemblance, to include the animals which we see, and everything that grows or is made.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very good.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Would you not admit that both the sections of this division have different degrees of truth, and that the copy is to the original as the sphere of opinion is to the sphere of knowledge?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Most undoubtedly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Next proceed to consider the manner in which the sphere of the intellectual is to be divided. In the lower of which the soul uses the figures given by the former division as images; the enquiry can only be hypothetical, and instead of going upwards to a principle descends to the other end.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "In the higher of the two, the soul passes out of hypotheses, and goes up to a principle which is above hypotheses, making no use of images, but proceeding only in and through the ideas themselves.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I do not quite understand your meaning.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You are aware that students of geometry and the kindred sciences assume the odd and the even and the figures and three kinds of angles; these are their hypotheses, which they and everybody are supposed to know.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, I know.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And do you not know also that although they make use of the visible forms and reason about them, they are thinking not of these, but of the ideals which they resemble; not of the figures which they draw, but of the absolute square and the absolute diameter?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That is true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And when I speak of the other division of the intelligible, you will understand me to speak of that other sort of knowledge which reason herself attains by the power of dialectic, using the hypotheses not as first principles, but only as hypotheses—as steps and points of departure into a world which is above hypotheses.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I understand you to say that knowledge and being, which the science of dialectic contemplates, are clearer than the notions of the arts, which proceed from hypotheses only.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You have quite conceived my meaning; and now, corresponding to these four divisions, let there be four faculties in the soul—reason answering to the highest, understanding to the second, faith to the third, and perception of shadows to the last—and let us suppose that the several faculties have clearness in the same degree that their objects have truth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I understand, and give my assent, and accept your arrangement.",
+        "isSocrates": false
+      }
     ]
   },
   "modern": {
     "title": "Book VI: What Makes a Philosopher",
     "preview": "Socrates: So Glaucon, after this long journey, we've finally distinguished true philosophers from fake ones.",
     "messages": [
-      { "speaker": "Socrates", "text": "So Glaucon, after this long journey, we've finally distinguished true philosophers from fake ones.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "I don't think we could have taken a shortcut.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Probably not. Though it would've been clearer if we'd focused just on this topic.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What's next?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "The obvious question. Since only philosophers can grasp eternal, unchanging truths, and everyone else is lost in the world of constantly changing appearances—which group should rule our state?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "How do we decide that?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Whichever group can best protect our laws and institutions—they should be our guardians.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Makes sense.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And obviously, a guardian who's supposed to watch over something should have eyes, right?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Obviously.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "So people who don't really know the true nature of things, who have no clear vision of reality in their minds—aren't they basically blind?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Yeah, pretty much.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "First, we need to understand what a philosopher's nature actually is.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What do you mean?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Let's say philosophical minds love the kind of knowledge that reveals eternal truths—things that don't change or decay.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Agreed.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And they love all of truth—they won't give up any part of it, big or small.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "True.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Is there another quality they need?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What quality?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Honesty. They'll never accept falsehood into their minds—they hate lies and love truth.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Yeah, that's definitely true of them.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Is anything more connected to wisdom than truth?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Nothing.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Can someone love wisdom and love lies at the same time?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Never.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Someone whose desires are drawn toward knowledge will be absorbed in intellectual pleasures and barely notice physical ones—if they're a real philosopher, not a fake.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Definitely.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "They'll naturally be moderate and not greedy. The things that make other people obsessed with money just don't matter to them.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Very true.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "If someone's mind can contemplate all of time and existence, how much can they really care about this short human life?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Not much.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And would they be afraid of death?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "No way.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "So cowardly, petty people can't be real philosophers?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Definitely not.", "isSocrates": false },
-      { "speaker": "Adeimantus", "text": "Socrates, nobody can argue with what you're saying. But something weird happens when you talk like this—listeners feel like they're being led astray step by step, and by the end, everything they believed has been turned upside down.", "isSocrates": false },
-      { "speaker": "Adeimantus", "text": "Even though they can't argue with you, anyone can see that people who pursue philosophy into adulthood mostly become weird outcasts—or worse, total scoundrels.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Do you think they're wrong about that?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "I don't know. What do you think?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "I think they're completely right.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Then how can you say cities won't be free from problems until philosophers rule, when you admit philosophers are useless?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "I can only answer that with a story.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Imagine a ship where the captain is bigger and stronger than the crew, but he's a bit deaf and blind, and doesn't really know navigation.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "The sailors are all fighting over who gets to steer—each one thinks he should, even though none of them ever learned how to navigate.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "They crowd around the captain, begging for the wheel. When they don't get it, they throw the competition overboard or kill them.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "They drug the captain, take over the ship, and raid the supplies.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Anyone who helps them take control, they call a 'real sailor.' Anyone else is a 'useless dreamer.'", "isSocrates": true },
-      { "speaker": "Socrates", "text": "But the idea that a true pilot needs to study the stars, weather, and seasons—that's never even occurred to them.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Right.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "On a ship run by mutineers, what would they call the real navigator? A 'stargazer' and 'useless dreamer,' right?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Of course.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "You probably don't need me to explain that this describes the philosopher's relationship to the state.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Yeah, I get it.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Tell people who think philosophers are useless that they're right—but it's not the philosophers' fault. It's the fault of people who won't use them.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "A real captain shouldn't have to beg sailors to let him navigate. That's not how it works.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Exactly.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Here's the thing, Adeimantus: the most gifted people, when poorly educated, become the worst. Great evil comes from corrupted potential, not from weakness.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "I think you're right about that.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "A philosopher is like a plant. With proper care, it grows into something beautiful. But planted in the wrong soil, it becomes the worst kind of weed.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Very true.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Do you really think Sophists corrupt young people? Isn't the public itself the biggest Sophist of all?", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Doesn't the public educate everyone—young and old, men and women—and shape them into its own image?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "When does that happen?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "When crowds gather—in assemblies, courts, theaters—and there's this huge uproar. They cheer some things and boo others, way over the top, shouting and clapping.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "What young person can resist that flood of popular opinion? What private education can stand against it?", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "You're right—they can't resist.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And there's an even stronger force.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "What's that?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "When words fail, the public uses force—imprisonment, property seizure, death. The mob is the ultimate Sophist.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "They definitely do that.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "So true philosophers will always be a tiny minority.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Those few have tasted how sweet philosophy is, and they've seen how crazy the masses are.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "They know no politician is honest, and there's no champion of justice they can fight alongside.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "It's like falling in with wild animals—you won't join their evil, but you can't fight them all alone either.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "At least they'll accomplish something before they die.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Something, yes. But not the greatest thing—not unless they find a state that suits them. In the right state, they could truly flourish and save their country.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Which existing government do you think is suited to philosophy?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "None of them. That's exactly my complaint—no current government is worthy of a philosophical nature.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "So what's left to figure out?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "How to organize the study of philosophy so it doesn't ruin the state. All great projects carry risk. As they say, 'good things are hard.'", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "Let's work that out.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Right now, philosophy students are too young. They squeeze in some studying between making money and managing households.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "Even the most philosophical ones quit when they hit the really hard stuff—dialectic. They just give up.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "What would you change?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Flip the current system. In childhood and youth, give them philosophy suited to their age.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "As they mature, intensify the mental training. When they're past the age for military and civic duties, let them devote themselves fully to philosophy.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "You're really serious about this, Socrates! But I think most people hearing you will resist even harder.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Don't start a fight between me and Thrasymachus—we just became friends! We were never really enemies anyway.", "isSocrates": true },
-      { "speaker": "Socrates", "text": "We'll keep trying until we convince them, or at least help them for when they come back in another life and have this conversation again.", "isSocrates": true },
-      { "speaker": "Adeimantus", "text": "You're talking about some future myth!", "isSocrates": false },
-      { "speaker": "Socrates", "text": "No—I'm talking about right now.", "isSocrates": true }
+      {
+        "speaker": "Socrates",
+        "text": "So Glaucon, after this long journey, we've finally distinguished true philosophers from fake ones.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I don't think we could have taken a shortcut.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Probably not. Though it would've been clearer if we'd focused just on this topic.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What's next?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The obvious question. Since only philosophers can grasp eternal, unchanging truths, and everyone else is lost in the world of constantly changing appearances—which group should rule our state?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "How do we decide that?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Whichever group can best protect our laws and institutions—they should be our guardians.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Makes sense.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And obviously, a guardian who's supposed to watch over something should have eyes, right?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Obviously.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "So people who don't really know the true nature of things, who have no clear vision of reality in their minds—aren't they basically blind?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yeah, pretty much.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "First, we need to understand what a philosopher's nature actually is.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What do you mean?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Let's say philosophical minds love the kind of knowledge that reveals eternal truths—things that don't change or decay.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Agreed.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And they love all of truth—they won't give up any part of it, big or small.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Is there another quality they need?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What quality?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Honesty. They'll never accept falsehood into their minds—they hate lies and love truth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yeah, that's definitely true of them.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Is anything more connected to wisdom than truth?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Nothing.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Can someone love wisdom and love lies at the same time?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Never.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Someone whose desires are drawn toward knowledge will be absorbed in intellectual pleasures and barely notice physical ones—if they're a real philosopher, not a fake.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Definitely.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "They'll naturally be moderate and not greedy. The things that make other people obsessed with money just don't matter to them.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "If someone's mind can contemplate all of time and existence, how much can they really care about this short human life?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Not much.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And would they be afraid of death?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "No way.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "So cowardly, petty people can't be real philosophers?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Definitely not.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Socrates, nobody can argue with what you're saying. But something weird happens when you talk like this—listeners feel like they're being led astray step by step, and by the end, everything they believed has been turned upside down.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Even though they can't argue with you, anyone can see that people who pursue philosophy into adulthood mostly become weird outcasts—or worse, total scoundrels.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Do you think they're wrong about that?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "I don't know. What do you think?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "I think they're completely right.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Then how can you say cities won't be free from problems until philosophers rule, when you admit philosophers are useless?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "I can only answer that with a story.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Imagine a ship where the captain is bigger and stronger than the crew, but he's a bit deaf and blind, and doesn't really know navigation.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The sailors are all fighting over who gets to steer—each one thinks he should, even though none of them ever learned how to navigate.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "They crowd around the captain, begging for the wheel. When they don't get it, they throw the competition overboard or kill them.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "They drug the captain, take over the ship, and raid the supplies.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Anyone who helps them take control, they call a 'real sailor.' Anyone else is a 'useless dreamer.'",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But the idea that a true pilot needs to study the stars, weather, and seasons—that's never even occurred to them.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Right.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "On a ship run by mutineers, what would they call the real navigator? A 'stargazer' and 'useless dreamer,' right?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Of course.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You probably don't need me to explain that this describes the philosopher's relationship to the state.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Yeah, I get it.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Tell people who think philosophers are useless that they're right—but it's not the philosophers' fault. It's the fault of people who won't use them.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "A real captain shouldn't have to beg sailors to let him navigate. That's not how it works.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Exactly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Here's the thing, Adeimantus: the most gifted people, when poorly educated, become the worst. Great evil comes from corrupted potential, not from weakness.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "I think you're right about that.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "A philosopher is like a plant. With proper care, it grows into something beautiful. But planted in the wrong soil, it becomes the worst kind of weed.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Do you really think Sophists corrupt young people? Isn't the public itself the biggest Sophist of all?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Doesn't the public educate everyone—young and old, men and women—and shape them into its own image?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "When does that happen?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "When crowds gather—in assemblies, courts, theaters—and there's this huge uproar. They cheer some things and boo others, way over the top, shouting and clapping.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "What young person can resist that flood of popular opinion? What private education can stand against it?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "You're right—they can't resist.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And there's an even stronger force.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "What's that?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "When words fail, the public uses force—imprisonment, property seizure, death. The mob is the ultimate Sophist.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "They definitely do that.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "So true philosophers will always be a tiny minority.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Those few have tasted how sweet philosophy is, and they've seen how crazy the masses are.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "They know no politician is honest, and there's no champion of justice they can fight alongside.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "It's like falling in with wild animals—you won't join their evil, but you can't fight them all alone either.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "At least they'll accomplish something before they die.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Something, yes. But not the greatest thing—not unless they find a state that suits them. In the right state, they could truly flourish and save their country.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Which existing government do you think is suited to philosophy?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "None of them. That's exactly my complaint—no current government is worthy of a philosophical nature.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "So what's left to figure out?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "How to organize the study of philosophy so it doesn't ruin the state. All great projects carry risk. As they say, 'good things are hard.'",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "Let's work that out.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Right now, philosophy students are too young. They squeeze in some studying between making money and managing households.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Even the most philosophical ones quit when they hit the really hard stuff—dialectic. They just give up.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "What would you change?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Flip the current system. In childhood and youth, give them philosophy suited to their age.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "As they mature, intensify the mental training. When they're past the age for military and civic duties, let them devote themselves fully to philosophy.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "You're really serious about this, Socrates! But I think most people hearing you will resist even harder.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Don't start a fight between me and Thrasymachus—we just became friends! We were never really enemies anyway.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "We'll keep trying until we convince them, or at least help them for when they come back in another life and have this conversation again.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Adeimantus",
+        "text": "You're talking about some future myth!",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "No—I'm talking about right now.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Wait, Socrates—don't stop now when we're so close! Just explain the Good the same way you explained justice and the other virtues.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "I'd love to, but I'm worried I'll embarrass myself trying. Let me talk about the 'child' of the Good instead—something similar to it. I'll owe you the full explanation later.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Deal. Tell us about this child, and you can pay the parent back later.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Here's the old story: there are many beautiful things and many good things. But there's also absolute beauty and absolute goodness—single Forms that unify all those particular instances.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The many particulars are seen but not truly known. The Forms are known but not seen. Now, what organ do we use to see visible things?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Our eyes.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Ever notice that sight is the most elaborate of all our senses?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Not really.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Think about it. Hearing doesn't need anything extra to work—just the ear and the sound. But sight? The eye can exist, colors can exist, but without a third thing, you see nothing.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What third thing?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Light. Light is what binds sight and visibility together. And light is no small thing.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Definitely not.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Which god do you think provides this light that lets us see?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "The sun, obviously.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Right. The sun isn't sight itself, but it's what makes sight possible. It's the author of sight.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Here's the key: the sun is the 'child' of the Good. What the sun is to the visible world—the source of light and sight—the Good is to the intellectual world, the source of truth and understanding.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Explain more.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "You know how in dim light—just the moon and stars—your eyes can barely see? They seem almost blind?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yeah.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But in sunlight, they see clearly.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Sure.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The soul works the same way. When focused on truth and being, it understands and shines with intelligence. When focused on the murky world of change and becoming, it just has opinions—stumbling around, confused.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Exactly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "What gives truth to things known, and the power of knowing to the knower? That's the Good. It's the cause of knowledge and truth—but it's even more beautiful than they are.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Just as light and sight are like the sun but aren't the sun, knowledge and truth are like the Good but aren't the Good. The Good is even higher.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Wow, that must be something incredibly beautiful—beyond truth and knowledge.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Here's another way to see it: the sun doesn't just make things visible—it also makes them grow and exist. It's the source of their being, though it isn't being itself.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Right.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Same with the Good. It gives things their existence and essence, but the Good itself isn't just existence—it's beyond existence in power and dignity.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Holy crap, that's mind-blowing!",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now imagine two realms: one intellectual, one visible. Picture a line divided into two unequal parts—one for the visible world, one for the intelligible.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Okay.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now divide each section the same way. In the visible realm, the lower section contains images—shadows, reflections in water, mirror images.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Got it.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The upper section of the visible realm contains actual physical things—animals, plants, manufactured objects.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Okay.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "These two sections have different degrees of truth. Images are to real objects as opinion is to knowledge.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Definitely.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now for the intelligible realm. The lower section is where the soul uses physical things as images and works from assumptions—going downward, not upward to first principles.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The higher section is pure reason—the soul moves beyond assumptions toward the first principle of everything, using only ideas, no images.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I'm not totally following.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Think about geometry. Mathematicians assume things like odd/even numbers, different types of angles. They take these as given and don't explain them—just work down from them to conclusions.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Right.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And they use visible diagrams, but they're really thinking about the ideal forms those diagrams represent—not the drawn triangle, but the perfect Triangle itself.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Dialectic is different. It uses assumptions only as stepping stones to reach the first principle—the unconditioned starting point. Then it works back down through pure ideas, no physical images needed.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "So you're saying dialectic gives clearer knowledge than math, because math starts from assumptions while dialectic goes beyond them to first principles.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Exactly. So here's the lineup: four sections of the line, four mental states. At the top: pure reason. Second: mathematical understanding. Third: belief about physical things. At the bottom: perception of shadows. Each level of clarity matches its object's level of truth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I get it. I accept this framework.",
+        "isSocrates": false
+      }
     ]
   }
 }
-
