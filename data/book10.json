@@ -1,177 +1,1015 @@
 {
   "id": 10,
   "original": {
-    "title": "Book X: Art, Immortality, and the Allegory of Er",
+    "title": "Book X: Art, Immortality, and the Myth of Er",
     "preview": "Socrates: Of the many excellences which I perceive in the order of our State, there is none which upon reflection pleases me better than the rule about poetry.",
     "messages": [
-      { "speaker": "Socrates", "text": "Of the many excellences which I perceive in the order of our State, there is none which upon reflection pleases me better than the rule about poetry.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "To what do you refer?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "To the rejection of imitative poetry, which certainly ought not to be received; as I see far more clearly now that the parts of the soul have been distinguished.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What do you mean?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Speaking in confidence, for I should not like to have my words repeated to the tragedians and the rest of the imitative tribe—but I do not mind saying to you, that all poetical imitations are ruinous to the understanding of the hearers.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory allegory.", "isSocrates": false }
+      {
+        "speaker": "Socrates",
+        "text": "Of the many excellences which I perceive in the order of our State, there is none which upon reflection pleases me better than the rule about poetry.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "To what do you refer?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "To the rejection of imitative poetry, which certainly ought not to be received; as I see far more clearly now that the parts of the soul have been distinguished.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What do you mean?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Speaking in confidence, for I should not like to have my words repeated to the tragedians and the rest of the imitative tribe—but I do not mind saying to you, that all poetical imitations are ruinous to the understanding of the hearers, and that the knowledge of their true nature is the only antidote to them.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Explain the purport of your remark.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Well, I will tell you, although I have always from my earliest youth had an awe and love of Homer, which even now makes the words falter on my lips, for he is the great captain and teacher of the whole of that charming tragic company; but a man is not to be reverenced more than the truth, and therefore I will speak out.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very good.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Can you tell me what imitation is? For I really do not know.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "A likely thing, then, that I should know.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Whenever a number of individuals have a common name, we assume them to have also a corresponding idea or form. Do you understand me?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I do.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Let us take any common instance; there are beds and tables in the world—plenty of them, are there not? But there are only two ideas or forms of them—one the idea of a bed, the other of a table.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And the maker of either of them makes a bed or he makes a table for our use, in accordance with the idea—but no artificer makes the ideas themselves: how could he?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Impossible.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And there is another artist—I should like to know what you would say of him. One who is the maker of all the works of all other workmen.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What an extraordinary man!",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "This is he who is able to make not only vessels of every kind, but plants and animals, himself and all other things—the earth and heaven, and the things which are in heaven or under the earth; he makes the gods also.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "He must be a wizard and no mistake.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "There are many ways in which the feat might be quickly and easily accomplished, none quicker than that of turning a mirror round and round—you would soon enough make the sun and the heavens, and the earth and yourself, and other animals and plants.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, but they would be appearances only.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Very good, you are coming to the point now. And the painter too is, as I conceive, just such another—a creator of appearances, is he not?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Of course.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Well then, here are three beds: one existing in nature, which is made by God; there is another which is the work of the carpenter; and the work of the painter is a third.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, there are three of them.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "God, whether from choice or from necessity, made one bed in nature and one only; two or more such ideal beds neither ever have been nor ever will be made by God.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Why is that?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Because even if He had made but two, a third would still appear behind them which both of them would have for their idea, and that would be the ideal bed and not the two others.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then you call him who is third in the descent from nature an imitator?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And the tragic poet is an imitator, and therefore, like all other imitators, he is thrice removed from the king and from the truth?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That appears to be so.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The imitator is a long way off the truth, and can do all things because he lightly touches on a small part of them, and that part an image. For example: A painter will paint a cobbler, carpenter, or any other artist, though he knows nothing of their arts.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then must we not infer that all these poetical individuals, beginning with Homer, are only imitators; they copy images of virtue and the like, but the truth they never reach?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Quite so.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "In like manner the poet with his words and phrases may be said to lay on the colours of the several arts, himself understanding their nature only enough to imitate them; and other people, who are as ignorant as he is, imagine that if he speaks of cobbling, or of military tactics, or of anything else, in metre and harmony and rhythm, he speaks very well.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The imitative artist will be in a brilliant state of intelligence about his own creations?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Nay, very much the reverse.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Thus far then we are pretty well agreed that the imitator has no knowledge worth mentioning of what he imitates. Imitation is only a kind of play or sport, and the tragic poets, whether they write in iambic or in Heroic verse, are imitators in the highest degree.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The imitative art is an inferior who marries an inferior, and has inferior offspring.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "We have not yet brought forward the heaviest count in our accusation: the power which poetry has of harming even the good, and there are very few who are not harmed, is surely an awful thing?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, certainly, if the effect is what you say.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The best of us, when we listen to a passage of Homer, or one of the tragedians, in which he represents some pitiful hero who is drawling out his sorrows in a long oration, or weeping, and smiting his breast—the best of us, you know, delight in giving way to sympathy.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, of course I know.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But when any sorrow of our own happens to us, then you may observe that we pride ourselves on the opposite quality—we would fain be quiet and patient; this is the manly part, and the other which delighted us in the recitation is now deemed to be the part of a woman.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And the same may be said of lust and anger and all the other affections—in all of them poetry feeds and waters the passions instead of drying them up; she lets them rule, although they ought to be controlled.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I cannot deny it.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Therefore, Glaucon, whenever you meet with any of the eulogists of Homer declaring that he has been the educator of Hellas, we may love and honour those who say these things; but we must remain firm in our conviction that hymns to the gods and praises of famous men are the only poetry which ought to be admitted into our State.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That is most true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Notwithstanding this, let us assure our sweet friend and the sister arts of imitation that if she will only prove her title to exist in a well-ordered State we shall be delighted to receive her—we are very conscious of her charms; but we may not on that account betray the truth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, indeed, I am greatly charmed.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And we may further grant to those of her defenders who are lovers of poetry and yet not poets the permission to speak in prose on her behalf: let them show not only that she is pleasant but also useful to States and to human life.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly, we shall be the gainers.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Yes, my dear Glaucon, for great is the issue at stake, greater than appears, whether a man is to be good or bad. And what will any one be profited if under the influence of honour or money or power, aye, or under the excitement of poetry, he neglect justice and virtue?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, I have been convinced by the argument.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And yet no mention has been made of the greatest prizes and rewards which await virtue.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What, are there any greater still?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Why, what was ever great in a short time? The whole period of threescore years and ten is surely but a little thing in comparison with eternity?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Say rather 'nothing.'",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Are you not aware that the soul of man is immortal and imperishable?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "He looked at me in astonishment, and said: No, by heaven! And are you really prepared to maintain this?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Yes, I ought to be, and you too—there is no difficulty in proving it.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I see a great difficulty; but I should like to hear you state this argument.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "There is a thing which you call good and another which you call evil. Would you agree with me in thinking that the corrupting and destroying element is the evil, and the saving and improving element the good?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And you admit that every thing has a good and also an evil; as ophthalmia is the evil of the eyes and disease of the whole body; as mildew is of corn, and rot of timber, or rust of copper and iron?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And is there no evil which corrupts the soul?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, there are all the evils which we were just now passing in review: unrighteousness, intemperance, cowardice, ignorance.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But does any of these dissolve or destroy her? Consider the soul in like manner. Does the injustice or other evil which exists in the soul waste and consume her? Do they by attaching to the soul and inhering in her at last bring her to death?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly not.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But the soul which cannot be destroyed by an evil, whether inherent or external, must exist for ever, and if existing for ever, must be immortal?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "That is the conclusion; and, if a true conclusion, then the souls must always be the same, for if none be destroyed they will not diminish in number.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Very true.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And now, Glaucon, there will be no harm in further enumerating how many and how great are the rewards which justice and the other virtues procure to the soul from gods and men, both in life and after death.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Certainly not.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Will you repay me, then, what you borrowed in the argument? The assumption that the just man should appear unjust and the unjust just: for you were of opinion that this admission ought to be made for the sake of the argument.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I should be much to blame if I had forgotten.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then this must be our notion of the just man, that even when he is in poverty or sickness, or any other seeming misfortune, all things will in the end work together for good to him in life and death: for the gods have a care of any one whose desire is to become just.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Yes, if he is like God he will surely not be neglected by him.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "These, then, are the prizes and rewards and gifts which are bestowed upon the just by gods and men in this present life. And yet all these are as nothing in comparison with those other recompenses which await both just and unjust after death.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Speak; there are few things which I would more gladly hear.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Well, I will tell you a tale; not one of the tales which Odysseus tells to the hero Alcinous, yet this too is a tale of a hero, Er the son of Armenius, a Pamphylian by birth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He was slain in battle, and ten days afterwards, when the bodies of the dead were taken up already in a state of corruption, his body was found unaffected by decay. And on the twelfth day, as he was lying on the funeral pile, he returned to life and told them what he had seen in the other world.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What did he see?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He said that when his soul left the body he went on a journey with a great company, and that they came to a mysterious place at which there were two openings in the earth; they were near together, and over against them were two other openings in the heaven above.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "In the intermediate space there were judges seated, who commanded the just to ascend by the heavenly way on the right hand; and in like manner the unjust were bidden to descend by the lower way on the left hand.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And then?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He drew near, and they told him that he was to be the messenger who would carry the report of the other world to men, and they bade him hear and see all that was to be heard and seen in that place.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then he beheld souls departing at either opening, some ascending out of the earth dusty and worn with travel, some descending out of heaven clean and bright. And they told one another of what had happened, those from below weeping and sorrowing at the remembrance of the things which they had endured—now the journey lasted a thousand years.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "A thousand years?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "For every wrong which they had done to any one they suffered tenfold; or once in a hundred years—such being reckoned to be the length of man's life, and the penalty being thus paid ten times in a thousand years.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That is a fearsome reckoning.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He mentioned that he was present when one of the spirits asked, 'Where is Ardiaeus the Great?' Now this Ardiaeus had been the tyrant of some city of Pamphylia, and had murdered his aged father and his elder brother, and was said to have committed many other abominable crimes.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And what happened to him?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The answer was: 'He comes not hither and will never come. We were at the mouth of the cavern, when Ardiaeus appeared and several others, most of whom were tyrants. They were just, as they fancied, about to return into the upper world, but the mouth, instead of admitting them, gave a roar.'",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then wild men of fiery aspect seized and carried them off; and Ardiaeus and others they bound head and foot and hand, and threw them down and flayed them with scourges, and dragged them along the road, declaring to the passers-by what were their crimes, and that they were being taken away to be cast into hell.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That is terrifying.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now when the spirits which were in the meadow had tarried seven days, on the eighth they were obliged to proceed on their journey, and on the fourth day after, they came to a place where they could see from above a line of light, straight as a column, extending right through the whole heaven and through the earth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "The axis of the universe?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "From these ends is extended the spindle of Necessity, on which all the revolutions turn. And on the upper surface of each circle is a siren, who goes round with them, hymning a single tone or note. The eight together form one harmony.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And round about, at equal intervals, there is another band, three in number, each sitting upon her throne: these are the Fates, daughters of Necessity—Lachesis and Clotho and Atropos, who accompany with their voices the harmony of the sirens. Lachesis singing of the past, Clotho of the present, Atropos of the future.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "A magnificent vision.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "When Er and the spirits arrived, there came a prophet who arranged them in order; then he took from the knees of Lachesis lots and samples of lives, and spoke as follows:",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "'Hear the word of Lachesis, the daughter of Necessity. Mortal souls, behold a new cycle of life and mortality. Your genius will not be allotted to you, but you choose your genius; and let him who draws the first lot have the first choice, and the life which he chooses shall be his destiny. Virtue is free, and as a man honours or dishonours her he will have more or less of her; the responsibility is with the chooser—God is justified.'",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "We choose our own fate?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then the Interpreter placed on the ground before them the samples of lives; and there were many more lives than the souls present. There were lives of every animal and of man in every condition. And there were tyrannies among them, some lasting out the tyrant's life, others which broke off in the middle and came to an end in poverty and exile.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What happened when they chose?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He who had the first choice came forward and in a moment chose the greatest tyranny; his mind having been darkened by folly and sensuality, he had not thought out the whole matter before he chose, and did not at first sight perceive that he was fated, among other evils, to devour his own children.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But when he had time to reflect, and saw what was in the lot, he began to beat his breast and lament over his choice. He was one of those who came from heaven, and in a former life had dwelt in a well-ordered State, but his virtue was a matter of habit only, and he had no philosophy.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "How tragic—virtue by habit rather than understanding.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The pilgrims who came from earth, having themselves suffered and seen others suffer, were not in a hurry to choose. For if a man had always dedicated himself to sound philosophy, and had been moderately fortunate in the number of the lot, he might be happy here, and also his journey to another life would be smooth and heavenly.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Philosophy protects against poor choices.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "There he saw the soul which had once been Orpheus choosing the life of a swan out of enmity to the race of women, hating to be born of a woman because they had been his murderers. The soul of Ajax chose the life of a lion, remembering the injustice which was done him in the judgment about the arms.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And Odysseus?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "There came also the soul of Odysseus having yet to make a choice, and his lot happened to be the last of them all. The recollection of former toils had disenchanted him of ambition, and he went about for a considerable time in search of the life of a private man who had no cares.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He had some difficulty in finding this, which was lying about and had been neglected by everybody else; and when he saw it, he said that he would have done the same had his lot been first instead of last, and that he was delighted to have it.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "The wisest choice of all.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "All the souls had now chosen their lives, and they went in the order of their choice to Lachesis. Then, when they were fastened to the spindle, they marched on in a scorching heat to the plain of Forgetfulness, and towards evening they encamped by the river of Unmindfulness.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Of this they were all obliged to drink a certain quantity, and those who were not saved by wisdom drank more than was necessary; and each one as he drank forgot all things.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And then?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now after they had gone to rest, about the middle of the night there was a thunderstorm and earthquake, and then in an instant they were driven upwards in all manner of ways to their birth, like stars shooting. He himself was hindered from drinking the water, and thus he returned to tell us.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What a tale.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And thus, Glaucon, the tale has been saved and has not perished, and will save us if we are obedient to the word spoken; and we shall pass safely over the river of Forgetfulness and our soul will not be defiled.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Wherefore my counsel is that we hold fast ever to the heavenly way and follow after justice and virtue always, considering that the soul is immortal and able to endure every sort of good and every sort of evil.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Thus shall we live dear to one another and to the gods, both while remaining here and when, like conquerors in the games who go round to gather gifts, we receive our reward. And it shall be well with us both in this life and in the pilgrimage of a thousand years which we have been describing.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That is a beautiful conclusion to our discussion.",
+        "isSocrates": false
+      }
     ]
   },
   "modern": {
     "title": "Book X: Art, Immortality, and the Myth of Er",
     "preview": "Socrates: Of all the great features of our ideal state, none pleases me more than our policy on poetry.",
     "messages": [
-      { "speaker": "Socrates", "text": "Of all the great features of our ideal state, none pleases me more than our policy on poetry.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What do you mean?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Rejecting imitative poetry. Now that we've analyzed the soul's parts, it's even clearer that we made the right call.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Explain?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Just between us—I don't want the playwrights to hear this—but all poetic imitation damages the understanding of listeners who don't have the antidote.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What's the antidote?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Knowledge of what imitation really is. Let me explain. When a craftsman makes a bed, they're copying the Form of a bed—the true essence of 'bed-ness' that exists in nature.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Right.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "So the craftsman doesn't create the real thing—only a copy. And when a painter paints that bed? They're copying a copy. Three steps removed from truth.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's a good way to put it.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "The imitator knows nothing about reality—only appearances. They're like a mirror reflecting surfaces without understanding what's underneath.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Exactly.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Homer and the tragedians are the same. They write about generals, doctors, gods—but do they actually know how to lead armies or heal people? No. They just imitate.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "True. If Homer really knew how to make people virtuous, wouldn't he have done that instead of just writing poems?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Precisely. And here's the real danger: imitation appeals to the worst part of our soul—the emotional, irrational part that loves drama and spectacle.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "How so?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "When we watch a tragedy, we enjoy seeing characters weep and wail—even though in real life, we'd be ashamed to act that way. Poetry feeds our emotional nature instead of starving it.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's a powerful point.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Same with comedy. We laugh at vulgar jokes in the theater that we'd never make ourselves. Poetry weakens our self-control.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "I hadn't thought of it that way.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "So despite my love for Homer—I've admired him since childhood—we have to exile poetry from our ideal state. Truth matters more than art.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "But if poetry could defend itself—prove it's beneficial—we'd welcome it back?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Absolutely. We're not hostile to poetry. We're just not going to betray truth for its sake. Anyone who loves poetry can argue for its return.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Fair enough.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Now let's talk about the soul's immortality. We haven't yet proven justice pays off in the long run—we've only shown it's good in itself.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Go on.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Everything has its own evil that destroys it. Rust destroys iron, disease destroys the body. What destroys the soul?", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Injustice, ignorance, cowardice—the vices.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Right. But notice: these vices make the soul worse, but they don't kill it. Even the most wicked people keep living.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "True.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And bodily death doesn't destroy the soul either—the soul isn't made of the same stuff as the body. So the soul must be immortal.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's a powerful argument.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "And if the soul is immortal, we need to care for it not just for this life, but for all eternity. Justice matters infinitely more than we thought.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's huge.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Now let's add back what we removed at the start: the rewards of justice. Gods and humans both honor the just person. The unjust may prosper briefly, but they always fall in the end.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That matches what we see in life.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "But the rewards in this life are nothing compared to what awaits after death. Let me tell you a story—the Myth of Er.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "I'm listening.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Er was a soldier who died in battle. His body lay on the field for ten days, but when they built the funeral pyre, he came back to life and told what he'd seen.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What did he see?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "His soul left his body and traveled with others to a meadow with four openings—two to the sky, two to the earth. Judges sat there, sending the just upward and the unjust downward.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "And then?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Souls returned from both directions. Those from below were dirty and worn, weeping about their thousand-year punishments—ten times the pain for every wrong they'd done.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's terrifying.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "The worst—tyrants, murderers of parents, the truly wicked—never escaped. When they tried to leave, the opening roared, and fiery guards dragged them back to be tortured forever.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Justice catches up eventually.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "But those from above were clean and joyful, telling of beautiful sights and ten times the reward for every good deed.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's encouraging.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "After seven days in the meadow, the souls traveled to a place where they saw the Spindle of Necessity—the axis of the universe, with the Fates spinning the threads of destiny.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Incredible.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Then came the choosing of lives. A prophet announced: 'Souls of a day! A new cycle of mortal life begins. You will choose your next life. Virtue has no master—each soul gets what it honors.'", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "We choose our own fate?", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Lots were drawn for order of choosing. Many lives lay before them—tyrants, famous people, animals, ordinary folks. But here's the key: the soul's character wasn't fixed. That depended on the choice.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "So wisdom matters most in choosing.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Exactly. The first to choose grabbed a tyranny without thinking—not seeing the fate of eating his own children that came with it. When he realized, he blamed luck, the gods, anything but himself.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Tragic.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "He'd lived a decent life before—but only by habit, not philosophy. Many who came from heaven chose badly because they'd never suffered. Those from below often chose more wisely.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "Suffering teaches.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "Odysseus chose last. Remembering his past troubles, he searched everywhere for a quiet, ordinary life—and found it lying in a corner, ignored by everyone else. He said he would have chosen it first.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "The wisest choice.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "After choosing, souls drank from the River of Forgetfulness and were shot like stars into their new lives. Er was forbidden to drink, so he could return and tell us.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "What a story.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "The lesson: if we believe this myth and practice justice with wisdom, we'll make the journey safely. We'll be friends to ourselves and the gods, both here and in the thousand-year journey after.", "isSocrates": true },
-      { "speaker": "Glaucon", "text": "That's beautiful.", "isSocrates": false },
-      { "speaker": "Socrates", "text": "So let's hold to the upward path and practice justice with wisdom in every way. That's how we'll be friends to ourselves and to the gods, and we'll prosper both in this life and in the journey of a thousand years.", "isSocrates": true }
+      {
+        "speaker": "Socrates",
+        "text": "Of all the great features of our ideal state, none pleases me more than our policy on poetry.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What do you mean?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Rejecting imitative poetry. Now that we've analyzed the soul's parts, it's even clearer that we made the right call.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Explain?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Just between us—I don't want the playwrights to hear this—but all poetic imitation damages the understanding of listeners who don't have the antidote.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What's the antidote?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Knowledge of what imitation really is. Let me explain. When a craftsman makes a bed, they're copying the Form of a bed—the true essence of 'bed-ness' that exists in nature.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Right.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "So the craftsman doesn't create the real thing—only a copy. And when a painter paints that bed? They're copying a copy. Three steps removed from truth.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's a good way to put it.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The imitator knows nothing about reality—only appearances. They're like a mirror reflecting surfaces without understanding what's underneath.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Exactly.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Homer and the tragedians are the same. They write about generals, doctors, gods—but do they actually know how to lead armies or heal people? No. They just imitate.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True. If Homer really knew how to make people virtuous, wouldn't he have done that instead of just writing poems?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Precisely. And here's the real danger: imitation appeals to the worst part of our soul—the emotional, irrational part that loves drama and spectacle.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "How so?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "When we watch a tragedy, we enjoy seeing characters weep and wail—even though in real life, we'd be ashamed to act that way. Poetry feeds our emotional nature instead of starving it.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's a powerful point.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Same with comedy. We laugh at vulgar jokes in the theater that we'd never make ourselves. Poetry weakens our self-control.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I hadn't thought of it that way.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "So despite my love for Homer—I've admired him since childhood—we have to exile poetry from our ideal state. Truth matters more than art.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "But if poetry could defend itself—prove it's beneficial—we'd welcome it back?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Absolutely. We're not hostile to poetry. We're just not going to betray truth for its sake. Anyone who loves poetry can argue for its return.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Fair enough.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now let's talk about the soul's immortality. We haven't yet proven justice pays off in the long run—we've only shown it's good in itself.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Go on.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Everything has its own evil that destroys it. Rust destroys iron, disease destroys the body. What destroys the soul?",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Injustice, ignorance, cowardice—the vices.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Right. But notice: these vices make the soul worse, but they don't kill it. Even the most wicked people keep living.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "True.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And bodily death doesn't destroy the soul either—the soul isn't made of the same stuff as the body. So the soul must be immortal.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's a powerful argument.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "And if the soul is immortal, we need to care for it not just for this life, but for all eternity. Justice matters infinitely more than we thought.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's huge.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Now let's add back what we removed at the start: the rewards of justice. Gods and humans both honor the just person. The unjust may prosper briefly, but they always fall in the end.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That matches what we see in life.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But the rewards in this life are nothing compared to what awaits after death. Let me tell you a story—the Myth of Er.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "I'm listening.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Er was a soldier who died in battle. His body lay on the field for ten days, but when they built the funeral pyre, he came back to life and told what he'd seen.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What did he see?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "His soul left his body and traveled with others to a meadow with four openings—two to the sky, two to the earth. Judges sat there, sending the just upward and the unjust downward.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "And then?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Souls returned from both directions. Those from below were dirty and worn, weeping about their thousand-year punishments—ten times the pain for every wrong they'd done.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's terrifying.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The worst—tyrants, murderers of parents, the truly wicked—never escaped. When they tried to leave, the opening roared, and fiery guards dragged them back to be tortured forever.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Justice catches up eventually.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "But those from above were clean and joyful, telling of beautiful sights and ten times the reward for every good deed.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's encouraging.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "After seven days in the meadow, the souls traveled to a place where they saw the Spindle of Necessity—the axis of the universe, with the Fates spinning the threads of destiny.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Incredible.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Then came the choosing of lives. A prophet announced: 'Souls of a day! A new cycle of mortal life begins. You will choose your next life. Virtue has no master—each soul gets what it honors.'",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "We choose our own fate?",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Lots were drawn for order of choosing. Many lives lay before them—tyrants, famous people, animals, ordinary folks. But here's the key: the soul's character wasn't fixed. That depended on the choice.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "So wisdom matters most in choosing.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Exactly. The first to choose grabbed a tyranny without thinking—not seeing the fate of eating his own children that came with it. When he realized, he blamed luck, the gods, anything but himself.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Tragic.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "He'd lived a decent life before—but only by habit, not philosophy. Many who came from heaven chose badly because they'd never suffered. Those from below often chose more wisely.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "Suffering teaches.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "Odysseus chose last. Remembering his past troubles, he searched everywhere for a quiet, ordinary life—and found it lying in a corner, ignored by everyone else. He said he would have chosen it first.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "The wisest choice.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "After choosing, souls drank from the River of Forgetfulness and were shot like stars into their new lives. Er was forbidden to drink, so he could return and tell us.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "What a story.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "The lesson: if we believe this myth and practice justice with wisdom, we'll make the journey safely. We'll be friends to ourselves and the gods, both here and in the thousand-year journey after.",
+        "isSocrates": true
+      },
+      {
+        "speaker": "Glaucon",
+        "text": "That's beautiful.",
+        "isSocrates": false
+      },
+      {
+        "speaker": "Socrates",
+        "text": "So let's hold to the upward path and practice justice with wisdom in every way. That's how we'll be friends to ourselves and to the gods, and we'll prosper both in this life and in the journey of a thousand years.",
+        "isSocrates": true
+      }
     ]
   }
 }
-
